@@ -11,7 +11,7 @@ img {
 
 /*cover*/
 #cover {
-  background: #222 url('../images/stars.jpg') center center no-repeat;
+  background: #222 url('../images/mountain peaks.jpeg') bottom center no-repeat;
   background-size: cover;
   color: #fff;
   height: 100%;
@@ -40,7 +40,7 @@ img {
 
 /*about*/
 #about {
-  background: url('../images/girlincar.jpg') center center no-repeat;
+  background: url('../images/ice.jpg') center center no-repeat;
   background-size: cover;
 }
 
