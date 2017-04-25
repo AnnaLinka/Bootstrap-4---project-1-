@@ -29,6 +29,14 @@ img {
   justify-content: center;
 }
 
+/*carousel*/
+.carousel-caption {
+  margin-bottom: 5rem;
+}
+.carousel-indicators li {
+  margin-bottom: 5rem;
+}
+
 /*cards*/
 .card-block {
   flex-grow: 0;
